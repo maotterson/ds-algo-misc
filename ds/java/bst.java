@@ -3,7 +3,7 @@ package ds.java;
 public class bst
 {
     public static void main(String[] args){
-        int[] unsortedArray = {4,3,2};
+        int[] unsortedArray = {4,3,2,8,9,1,15,11,6};
         Tree tree = new Tree(unsortedArray);
         System.out.println(tree.toString());
     }
