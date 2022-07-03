@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{66
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountOddNumbersInAnIntervalRange", "Problems\CountOddNumbersInAnIntervalRange\CountOddNumbersInAnIntervalRange.csproj", "{B0A82E83-471A-43E2-AB34-9073FBACC191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiggleSubsequence", "WiggleSubsequence\WiggleSubsequence.csproj", "{AACCE597-D875-45CE-BFE5-BE2B17A9B459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{B0A82E83-471A-43E2-AB34-9073FBACC191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A82E83-471A-43E2-AB34-9073FBACC191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A82E83-471A-43E2-AB34-9073FBACC191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACCE597-D875-45CE-BFE5-BE2B17A9B459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACCE597-D875-45CE-BFE5-BE2B17A9B459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACCE597-D875-45CE-BFE5-BE2B17A9B459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACCE597-D875-45CE-BFE5-BE2B17A9B459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B0A82E83-471A-43E2-AB34-9073FBACC191} = {6613B92E-0793-45C1-9542-6CE64C5D7C29}
+		{AACCE597-D875-45CE-BFE5-BE2B17A9B459} = {6613B92E-0793-45C1-9542-6CE64C5D7C29}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7AE1844C-6121-4223-9B5E-5D2628FF6A66}
